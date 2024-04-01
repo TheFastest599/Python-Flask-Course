@@ -6,8 +6,7 @@
 *.pyd
 __pycache__
 
-# Flask files
-instance/
+
 
 # Databases
 *.sqlite
